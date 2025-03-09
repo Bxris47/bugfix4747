@@ -21,4 +21,4 @@ class bobby:
 <br><br>
 
 ### Stats
-[![](https://github-readme-stats.vercel.app/api?username=bugfix4747&theme=dracula&count_private=true&show_icons=true&hide=stars)](https://bugfix4747.github.io)
+[![](https://github-readme-stats.vercel.app/api?username=bxris47&theme=dracula&count_private=true&show_icons=true&hide=stars)](https://bxris47.github.io)
