@@ -1,12 +1,12 @@
 ```python
-┌──C:\Users\Bobby> -[~/enterprise]
+┌──C:\Users\Baris> -[~/Pro]
 └─$ main.py
 
-class bobby:
+class baris:
 
-    def __bobby__(self):
+    def __baris__(self):
         self.hello = "👋"
-        self.username = "Bobby"
+        self.username = "Baris"
         self.age = "?"
 
     def __skills__(self):
