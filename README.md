@@ -2,8 +2,7 @@
 ┌──C:\Users\Baris> -[~/Pro]
 └─$ main.py
 
-class baris:
-
+class Baris:
     def __baris__(self):
         self.hello = "👋"
         self.username = "Baris"
